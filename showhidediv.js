@@ -1,6 +1,6 @@
 /*
 	Show and hide div content when clicking a link
-	Version 1.0
+	Version 1.02
 	Last revision: 24.11.2009
 	Modification of code found here: http://www.webmasterworld.com/forum91/441.htm by ashkosh
 */
